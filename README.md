@@ -1,34 +1,72 @@
-# Banking Domain Automation Framework
+# \# Banking Domain Automation Framework
 
-## Overview
-This repository contains an end-to-end test automation framework for a retail online banking application.
+# 
 
-The framework validates core banking workflows such as customer registration, secure login, and fund transfer using Selenium WebDriver with Java, Cucumber BDD, and TestNG.
+# \## Overview
 
-## Domain
-Retail Digital Banking
+# This repository contains an end-to-end test automation framework designed for a retail online banking application.
 
-## Tech Stack
-- Java
-- Selenium WebDriver
-- Cucumber (BDD)
-- TestNG
-- Maven
+# 
 
-## Scenarios Covered
-- Customer registration
-- Login authentication
-- Fund transfer between accounts
-- Functional and regression test scenarios
+# The framework automates core banking workflows such as customer registration, secure login authentication, and fund transfer validation using Selenium WebDriver with Java, Cucumber (BDD), and TestNG.
 
-## Framework Design
-- Page Object Model (POM)
-- Behavior Driven Development (BDD)
-- Maven based execution
-- Reusable utilities and hooks
+# 
 
-## Execution
-mvn clean test
+# \## Domain
 
-## Reporting
-Cucumber HTML reports are generated under the target folder after execution.
+# Retail Digital Banking
+
+# 
+
+# \## Tech Stack
+
+# \- Java
+
+# \- Selenium WebDriver
+
+# \- Cucumber BDD
+
+# \- TestNG
+
+# \- Maven
+
+# 
+
+# \## Banking Scenarios Covered
+
+# \- New customer registration
+
+# \- Customer login authentication
+
+# \- Account overview validation
+
+# \- Fund transfer between accounts
+
+# \- Functional and regression test scenarios
+
+# 
+
+# \## Framework Design
+
+# \- Page Object Model (POM)
+
+# \- Behavior Driven Development (BDD)
+
+# \- Reusable utilities and hooks
+
+# \- Maven based execution
+
+# 
+
+# \## Execution
+
+# mvn clean test
+
+# 
+
+# \## Reporting
+
+# Cucumber HTML reports are generated after execution under the target directory.
+
+# 
+
